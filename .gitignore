@@ -1,0 +1,17 @@
+# First, ignore everything
+*
+# Now, whitelist anything that's a directory
+!*/
+# And all the file types you're interested in.
+!.gitignore
+!*.py
+!*.ipynb
+!*.json
+!*.csv
+!*.bat
+
+
+.ipynb_checkpoints
+out
+temp
+.old

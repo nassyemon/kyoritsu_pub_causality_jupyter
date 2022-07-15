@@ -9,6 +9,8 @@
 !*.json
 !*.csv
 !*.bat
+!Pipfile
+!Pipfile.lock
 
 
 .ipynb_checkpoints
